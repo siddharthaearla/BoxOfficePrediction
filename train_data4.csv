@@ -1,0 +1,135 @@
+Movie_Name,Genre,critic_rating1,user_rating1,critic_rating2, user_rating2,world_wide_gross,Domestic_gross,twitter_handles,views_count,likes_count,dislikes_count,comments_count,Action,Adventure,Animation,Biography,Comedy,Crime,Documentory,Drama,Family,Fantasy,History,Horror,Music,Musical,Mystery,Romance,Sci-Fi,Sport,Thriller,War,Western
+Moonlight ,Drama,99,7.2,98,79,65339156,27854931,moonlightmov,14127539,42088,5070,7122,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Manchester by the Sea ,Drama,96,8.2,95,77,77662988,47695371,MBTSMovie,7968045,21165,1168,2311,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+La La Land ,"Drama, Comedy, Romance, Musical ",93,8.4,92,81,431286372,151101803,LaLaLand,32881714,118370,5903,8479,0,0,0,0,1,0,0,1,0,0,0,0,0,1,0,1,0,0,0,0,0
+Tower ,"History, Crime, Animation, Documentary ",92,8.2,100,90,101987,101987,keithmaitland,25059880,122354,16014,19998,0,0,1,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Arrival ,"Sci-Fi, Drama, Mystery, Thriller ",81,8.1,94,82,203178872,100546139,arrivalmovie,18768099,81007,4539,15067,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0,1,0,0
+The Jungle Book ,"Adventure, Drama, Fantasy, Family, Musical ",77,7.5,95,86,963901123,364001123,TheJungleBook,7544981,36492,1350,3852,0,1,0,0,0,0,0,1,1,1,0,0,0,1,0,0,0,0,0,0,0
+The Edge of Seventeen ,"Drama, Comedy ",77,7.8,95,83,18802255,14431633,EdgeOf17,11950324,92813,1558,4732,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Sully ,"Biography, Drama",74,7.6,86,84,238552082,125070033,SullyMovie,14662620,54431,2044,8716,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+From Afar ,"Drama, Romance",73,8.7,79,56,86392,30169,LorenzoVigas,137380,286,19,46,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+Eye in the Sky ,"Drama, Thriller, War ",73,7.1,95,83,34916128,18704596,The_Green_Gold,3544849,6628,1149,1682,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0
+The Beatles: Eight Days a Week - The Touring Years ,"Music, Documentary",72,8.6,96,89,10538795,2934445,thebeatles,825356,3300,37,263,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Doctor Strange ,"Action, Adventure, Sci-Fi, Fantasy ",72,8.2,90,86,677541920,232641920,DrStrange,35258999,218372,6589,30600,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0
+In Order of Disappearance ,"Action, Thriller, Comedy, Crime ",74,7.5,85,73,50255,50255,,86865,276,11,41,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+Tale of Tales ,"History, Fantasy, Horror, Romance ",72,6.5,82,56,1144001,102186,taleoftales,8610945,20410,2066,570,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,1,0,0,0,0,0
+Captain Fantastic ,"Drama, Comedy, Romance ",72,7.8,83,85,21343811,5879835,CaptainMovieUK,7060177,16761,836,1877,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+King Jack ,"Adventure, Drama ",72,6.5,94,72,9241,9241,,135007,696,15,116,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Hail, Caesar! ","Drama, Mystery, Comedy, Musical ",72,5.9,85,44,64171419,30080225,HailCaesarMovie ‏,10534588,21646,1919,2507,0,0,0,0,1,0,0,1,0,0,0,0,0,1,1,0,0,0,0,0,0
+Hacksaw Ridge ,"Biography, Drama, History, Romance, War ",71,8.3,86,91,158701644,67209615,HacksawRidge‏,18522709,88398,3026,13417,0,0,0,1,0,0,0,1,0,0,1,0,0,0,0,1,0,0,0,1,0
+Don't Breathe ,"Thriller, Horror, Crime ",71,7.4,87,79,159047649,89217875,dontbreathe,22911326,62558,2518,10136,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0
+Raiders!: The Story of the Greatest Fan Film Ever Made ," Adventure, Biography, Drama, Comedy, Music, Documentary ",70,5.6,90,77,71916,71916,,79694,306,13,45,0,1,0,1,1,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+Blue Jay ,Drama ,69,7.8,93,76,21626,21626,,169321,1001,27,56,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Patriots Day ,"Drama, History, Thriller ",69,7.1,90,85,52461361,31886361,,5166080,11056,3748,4050,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0
+The Birth of a Nation ,"Biography, Drama, History ",69,5.4,72,71,16847879,15861566,NateParker,2397476,7496,1404,5019,0,0,0,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+Star Trek Beyond ,"Action, Adventure, Sci-Fi, Thriller ",68,6.7,84,80,336398312,158848340,justinlin,18434390,66987,26817,20779,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0
+Equity ,Drama ,68,6.2,82,53,1672151,1605463,meeraonthewall,387774,300,87,76,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+The Meddler ," Drama, Comedy, Romance ",68,6.7,85,56,5429972,4267219,LoreneScafaria,935022,2919,127,115,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+Popstar: Never Stop Never Stopping ,"Comedy, Music ",68,7.3,78,64,9537120,9496130,PopstarMovie,1931415,8237,878,898,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Imperium ,"Drama, Thriller, Crime ",68,6.9,83,64,349876,349876,DanielRagussis,5667426,27524,5958,9550,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+Barbershop: The Next Cut ,Comedy,67,5.8,90,67,54404202,54030051,barbershopmovie ‏,3722861,12326,752,1416,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Wedding Doll ,Drama,66,6,77,80,56196,56196,gilkenan,44595,140,6,4,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Fantastic Beasts and Where to Find Them ,"Adventure, Fantasy, Family",66,7.3,74,79,803798342,234037575,FantasticBeasts,2359129,9260,346,866,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+The Infiltrator ,"Biography, Drama, Thriller, Crime ",66,7.3,70,71,18329653,15436808,InfiltratorMov,3838350,10318,332,1392,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+Rogue One: A Star Wars Story ,"Action, Adventure, Sci-Fi, Fantasy, War ",65,7.6,85,87,1050988488,532177324,RogueOneMovie,36753934,294945,11804,60339,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,1,0
+White Girl ,Drama ,65,7.1,71,44,200242,200242,whitegirl_movie,313057,390,66,35,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+The Conjuring 2 ,"Mystery, Thriller, Horror",65,7.7,79,81,311270008,102470008,TheConjuring,22573894,71365,3800,10222,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0
+Deadpool ,"Action, Adventure, Sci-Fi, Thriller, Fantasy, Comedy, Romance",65,8.1,83,90,801029249,363070709,deadpoolmovie,42317931,561707,13410,38754,1,1,0,0,1,0,0,0,0,1,0,0,0,0,0,1,1,0,1,0,0
+The Eyes of My Mother ,"Drama, Horror ",63,6.8,75,56,28180,27099,The Eyes of My Mother ,690809,1245,150,319,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+The Ones Below ,Thriller,63,6.1,73,47,42951,12488,DavidFarrUK,702542,1024,76,154,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+"Hello, My Name Is Doris ","Drama, Comedy, Romance ",63,7.2,83,76,14656195,14444999,mshowalter,2563712,10626,373,710,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+Bleed for This ,"Biography, Drama, Sport ",62,6.7,70,69,6248077,5083906,BleedForThis,5773361,42801,776,2893,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+Touched With Fire ,"Drama, Romance ",62,4.8,68,90,154869,146487,,784913,2567,212,252,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+Ghostbusters ,"Action, Sci-Fi, Fantasy, Comedy ",60,2.9,74,52,229034050,128350574,Ghostbusters,44182516,301761,1076562,283681,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0
+Allied ,"Action, Drama, History, Thriller, Romance, War ",60,6.7,59,64,119520023,40098064,AlliedMovie,5515833,18281,699,1887,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,1,0,0,1,1,0
+Tumbledown ,"Comedy, Romance, Music",60,6.6,69,61,234697,135026,TumbledownMovie,1180474,3899,194,254,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0
+Bad Moms ,Comedy,60,5.3,58,63,181457297,113257297,BadMoms,14045053,17142,3126,2722,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Yosemite ,Drama,59,7,77,62,13931,13931,,508437,2326,244,179,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Into the Forest ,"Sci-Fi, Drama, Thriller",59,5.9,78,43,11303,9995,IntoTheForest,1157192,1811,162,425,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0
+Elvis & Nixon ,"History, Comedy ",59,6.4,77,57,1443285,1055284,ElvisNixonMovie,1616640,6688,821,1530,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Absolutely Fabulous: The Movie ,"Comedy, Crime",59,4.4,59,41,35672155,4772155,AbFabMovie ‏,3004845,11162,831,1055,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Jason Bourne ,"Action, Thriller",58,6.4,55,56,416197059,162192920,jasonbourne,14628317,49846,2240,6787,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+Nerve ,"Adventure, Sci-Fi, Mystery, Thriller, Crime ",58,6.6,67,67,61680792,38583626,PlayNerve,29537819,157855,7782,12299,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,1,0,0
+Creative Control ,"Sci-Fi, Drama ",58,7.3,61,40,63014,63014,,256749,443,61,113,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0
+Lights Out ,"Thriller, Fantasy, Horror ",58,6.8,76,62,148868835,67268835,LightsOutMovie,19793958,63335,3520,9778,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,1,0,0
+Snowden ,"Action, Biography, Drama, Thriller ",58,7,61,71,34301950,21587519,SnowdenTheMovie,15068558,75003,4755,12206,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+A Hologram for the King ,"Drama, Comedy",58,5.7,73,55,11848058,4212494,hologramforking,3728241,10055,6731,3653,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+The Finest Hours ,"Action, Adventure, Biography, Drama, History, Thriller",58,6.6,64,66,49252761,27569558,MichaelTougias ‏,7768885,8525,566,1028,1,1,0,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0
+The Greasy Strangler ,"Thriller, Horror, Comedy",58,4.8,63,51,67473,45878,,151902,346,65,116,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0
+Whiskey Tango Foxtrot ,"Comedy, War",57,6.5,67,55,24915969,23083334,WTFTheMovie,5557627,14139,2725,2496,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+Miss Peregrine's Home for Peculiar Children ,"Adventure, Drama, Fantasy, Family",57,6.7,63,60,296642834,87242834,MissPeregrinesHomeForPeculiarChildren,14052896,81510,2658,12183,0,1,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0
+Band of Robbers ,"Adventure, Thriller, Comedy, Crime ",57,6.7,77,61,20555,20555,Band_of_Robbers,270372,486,36,75,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+War Dogs ,"Drama, Thriller, Comedy, Crime, War",57,7.1,59,69,83034523,43034523,wardogsmovie,10994505,24701,1276,2907,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0
+Genius ,"Biography, Drama",56,6.6,51,45,5653176,1361045,,1509464,11467,307,843,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Race ,"Biography, Drama, Sport",56,6.5,61,77,22178125,19115191,RaceMovie,1335639,8578,400,1680,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+A Tale of Love and Darkness ,"Biography, Drama, History",55,5.5,67,50,658848,572212,,850864,3935,744,638,0,0,0,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+Almost Christmas ,"Drama, Comedy ",55,5.1,51,65,42493506,42065185,AlmostChristmas,4785634,10019,1214,1128,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Anesthesia ,"Drama, Thriller",55,5.8,26,50,26799,26799,Robburnett1,1392372,5994,218,271,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+A Street Cat Named Bob ,"Biography, Drama, Comedy, Family",54,8.1,76,77,8370555,82703,,1803724,12222,220,1184,0,0,0,1,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+Hands of Stone ,"Action, Biography, Drama, Sport ",54,5.9,45,52,5032013,4712792,HandsofStoneMov,466013,1194,53,274,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+Eddie the Eagle ,"Biography, Drama, History, Sport, Comedy",54,7.2,80,82,45121177,15789389,EddieEagleMovie,4888858,7992,167,702,0,0,0,1,1,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0
+The Magnificent Seven ,"Action, Adventure, Western",54,6.4,63,72,159767790,93432655,AdamBaldwin,11286710,21227,1375,3976,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+The Program ,"Biography, Drama, Sport ",53,6.2,61,42,1579261,1579261,ProgramTheMovie,443876,1602,60,257,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+Knight of Cups ,"Drama, Romance ",53,6.4,45,37,1075486,566006,knightofcupsmov,8264687,14119,1593,2711,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+Monster Hunt ,"Action, Fantasy, Comedy",53,3.6,63,47,386152042,32766,,250725,410,77,86,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Free State of Jones ,"Action, Biography, Drama, History, War",53,7,46,63,23152062,20810036,FreeStateMovie,5177456,6306,535,2180,1,0,0,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0
+The Hollars ,"Drama, Comedy, Romance, Family ",53,7,44,58,1139502,1016985,,2250858,9632,349,559,0,0,0,0,1,0,0,1,1,0,0,0,0,0,0,1,0,0,0,0,0
+Mr. Right ,"Action, Comedy, Romance ",52,6.5,43,53,831881,34694,MrRightMovie,8152674,32013,1298,1704,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+Central Intelligence ,"Action, Comedy, Crime ",52,6.5,70,61,217196811,127440871,CentralIntel,11116752,41154,1264,2913,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+X-Men: Apocalypse ,"Action, Adventure, Sci-Fi, Fantasy ",52,6.6,48,66,542742489,155442489,XMenMovies,29912326,140921,7564,24897,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0
+Triple 9 ,"Action, Drama, Thriller, Crime",52,6.2,53,42,25943792,12639297,Triple9Movie,5930029,10233,519,1012,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+The Neon Demon ,"Drama, Thriller, Horror ",51,6.9,58,51,3559803,1333124,tnd_film,9093908,34279,4138,4887,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,1,0,0
+How to Be Single ,"Comedy, Romance ",51,6,47,47,99595932,46843513,,7638800,20761,1632,1538,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+Desierto ,"Action, Drama, Thriller, Horror",51,4.8,61,47,4940419,2002036,desierto,170123,367,40,61,1,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,1,0,0
+Risen ,"Action, Adventure, Drama, Mystery",51,6.9,52,69,46164361,36880033,RisenMovie,2533337,5857,720,3455,1,1,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0
+The Accountant ,"Action, Drama, Thriller, Crime ",51,7.4,52,77,153060045,86260045,accountantmovie,9770937,31205,1017,4164,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+Mike and Dave Need Wedding Dates ,"Adventure, Comedy, Romance",51,6,35,51,75909673,46009673,,7455083,17265,1291,1181,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+A Kind of Murder ,"Drama, Thriller ",50,5.7,36,13,83401,2915,,904139,3037,164,321,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+Demolition ,"Drama, Comedy",49,7.2,52,53,4124315,1978592,,2162157,7249,510,787,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Jane Got a Gun ,"Action, Drama, Western ",49,5.4,41,37,2976636,1513793,janegotagunfilm ‏,1648126,2183,263,412,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+Live by Night ,"Drama, Crime",49,7.1,35,42,21778555,10378555,livebynight,4667735,6931,412,894,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+13 Hours: The Secret Soldiers of Benghazi ,"Action, Drama, Thriller, War",48,6.8,50,82,69411370,52853219,13hours,5476638,11536,989,4068,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0
+The Girl on the Train ,"Drama, Mystery, Thriller",48,6,45,49,170327930,75395035,girlontrainfilm,8501770,23569,1145,3135,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,0
+Morgan ,"Sci-Fi, Drama, Mystery, Thriller, Horror",48,5.6,38,30,7315248,3915251,Morgan,5702169,10626,1313,2189,0,0,0,0,0,0,0,1,0,0,0,1,0,0,1,0,1,0,1,0,0
+Jack Reacher: Never Go Back ,"Action, Adventure, Drama, Mystery, Thriller, Crime ",47,5.6,38,42,160038407,58697076,JackReacher,10345619,36766,1060,3434,1,1,0,0,0,1,0,1,0,0,0,0,0,0,1,0,0,0,1,0,0
+The Dressmaker ,Drama,47,6.7,54,66,24041617,2022115,DressmakerMovie,1229478,7429,311,462,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+I Saw the Light ,"Biography, Drama, Romance, Music, Musical",47,5,18,35,1767963,1646788,,760531,4955,156,357,0,0,0,1,0,0,0,1,0,0,0,0,1,1,0,1,0,0,0,0,0
+Now You See Me 2 ,"Action, Adventure, Mystery, Thriller, Comedy, Crime",46,6.4,34,53,328675540,65075540,NYSMmovie,4635153,19234,556,0,1,1,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0
+Kill Your Friends ,"Thriller, Comedy, Crime ",45,5.8,25,31,420091,420091,KillFriendsFilm,1258067,7231,383,540,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+Pride and Prejudice and Zombies ,"Action, Thriller, Horror, Comedy, Romance ",45,5.6,43,44,16311335,10907291,PPZmovie,8796189,27502,3461,3759,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,0,1,0,0
+Miracles from Heaven ,Drama,44,5.8,43,81,73798720,61705123,MiraclesHeaven,7240965,32861,1474,4769,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Batman v Superman: Dawn of Justice ,"Action, Adventure, Sci-Fi, Fantasy ",44,7,27,63,868160194,330360194,BatmanvSuperman,70436566,441291,17895,88771,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0
+American Pastoral ,"Drama, Crime",43,5.8,22,29,1715728,544098,AmPastoralMovie,1356176,5383,219,733,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Equals ,"Sci-Fi, Drama, Romance ",43,6.4,35,41,2134557,33258,EqualsTheMovie,601724,2322,91,346,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0
+Office Christmas Party ,Comedy ,42,4.9,41,41,91342494,54767494,officexmasparty,3134858,10034,566,820,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Inferno ,"Action, Adventure, Sci-Fi, Drama, Mystery, Thriller, Crime ",42,5.5,22,36,219572877,34355263,infernothemovie,10955507,21579,1066,2314,1,1,0,0,0,1,0,1,0,0,0,0,0,0,1,0,1,0,1,0,0
+The Boy ,"Mystery, Thriller, Horror ",42,6.6,28,38,68220952,35819556,TheBoyMovie,12864420,38634,1941,6746,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0
+The Other Side of the Door ,Horror ,41,4.7,37,29,9787624,3000342,,4560245,10151,667,1656,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+The Perfect Match ,"Comedy, Romance",41,5.1,27,44,9669521,9669521,,5658833,18027,2123,1268,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+Passengers ,"Adventure, Sci-Fi, Drama, Romance",41,6.7,30,63,302212434,100014699,PassengersMovie,27350267,124286,5806,17942,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0
+Suicide Squad ,"Action, Adventure, Sci-Fi, Thriller, Fantasy, Comedy, Crime",40,6.2,26,60,746100054,325100054,SuicideSquadWB,84020629,649602,19786,87900,1,1,0,0,1,1,0,0,0,1,0,0,0,0,0,0,1,0,1,0,0
+Teenage Mutant Ninja Turtles: Out of the Shadows ,"Action, Adventure, Sci-Fi, Fantasy, Comedy",40,5.7,36,47,245623848,82051601,TMNTMovie ‏,5377307,27896,1942,3846,1,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0
+The Benefactor ,Drama ,40,5.1,25,23,1904720,1904720,,6034576,36141,643,586,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Mechanic: Resurrection ,"Action, Thriller, Crime ",38,5.4,31,40,110312958,21218403,TheMechanic,12438407,18747,950,1269,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+Ben-Hur ,"Action, Adventure, Drama, History ",38,5,25,53,88725100,26410477,BenHurMovie,7736005,14844,7176,4227,1,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+Cell ,"Sci-Fi, Thriller, Horror ",38,3.2,10,17,735841,735841,,5454853,12161,3119,3311,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,1,0,0
+Criminal ,"Action, Sci-Fi, Drama, Mystery, Thriller, Crime",36,7.6,30,47,38771262,14708696,,10167631,24347,951,1639,1,0,0,0,0,1,0,1,0,0,0,0,0,0,1,0,1,0,1,0,0
+Assassin's Creed ,"Action, Adventure, Sci-Fi, Drama, History, Fantasy ",36,6.3,18,43,240497948,54647948,AssassinsMovie‏,13592503,78718,4124,9423,1,1,0,0,0,0,0,1,0,1,1,0,0,0,0,0,1,0,0,0,0
+Solace ,"Drama, Mystery, Thriller, Crime ",36,5.6,25,44,22586863,22586863,,576782,1111,83,146,0,0,0,0,0,1,0,1,0,0,0,0,0,0,1,0,0,0,1,0,0
+The Huntsman: Winter's War ,"Action, Adventure, Drama, Fantasy",35,5.1,17,46,165149302,48003015,TheHuntsman,7520364,23373,965,3183,1,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+Keeping Up with the Joneses ,"Action, Comedy",34,6,20,37,28804426,14904426,,4246665,8209,550,832,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Alice Through the Looking Glass ,"Adventure, Fantasy, Family ",34,5.9,29,49,277442381,77042381,,9646619,52495,1978,5165,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+Zoolander 2 ,Comedy ,34,4.2,23,20,55348693,28848693,ZoolanderMovie,21670644,82947,5264,9846,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+The Divergent Series: Allegiant ,"Action, Adventure, Sci-Fi, Mystery, Thriller, Romance",33,4.1,12,42,171484051,66184051,DivergentSeries,7804682,31541,1557,4386,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,1,0,0
+Ride Along 2 ,"Action, Comedy ",32,4.5,13,48,124827316,90862685,RideAlong,14292426,46297,1894,2743,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Independence Day: Resurgence ,"Action, Adventure, Sci-Fi",32,4.5,31,30,387644286,103144286,ID4Sequel ‏,26002683,92852,5942,17206,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+Warcraft ,"Action, Adventure, Fantasy",32,8.2,28,77,433125655,47225655,warcraftmovie,24541922,127653,6518,24273,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Fifty Shades of Black ,Comedy ,28,2,7,19,20765353,11686940,FSOBMovie,16426196,86360,5999,6180,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Gods of Egypt ,"Action, Adventure, Fantasy",25,4.4,15,37,133553464,31153464,GodsofEgypt,24399511,66135,15298,27255,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Collateral Beauty ,"Drama, Romance",23,6.2,14,64,85315070,31016021,CBeautyMovie,10228579,50027,2181,4161,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+Yoga Hosers ,"Thriller, Fantasy, Horror, Comedy ",23,4.7,19,34,2199,2199,,1602949,6171,3372,1185,0,0,0,0,1,0,0,0,0,1,0,1,0,0,0,0,0,0,1,0,0
+Nine Lives ,"Fantasy, Comedy, Family ",11,2.8,13,41,44223197,19700032,ninelives,11436307,22559,4226,3048,0,0,0,0,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+The Mermaid,"Sci-Fi, Drama, Fantasy, Romance",69,7.1,94,60,552198479,3229457,,784697,909,68,70,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,1,1,0,0,0,0
+Lion,Drama,69,7.9,86,91,147528731,51728731,LionMovie,13009186,72809,1988,4866,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Hidden Figures ,"Biography, Drama, History",74,7.4,93,93,231580573,169387004,HiddenFigures,6838035,8789,872,1579,0,0,0,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+A Monster Calls,"Drama,Fantasy",76,7.8,86,81,46422066,3740823,amonstercalls,7611466,43011,1397,5878,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
